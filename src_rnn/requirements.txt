@@ -1,0 +1,5 @@
+torch
+torchtext==0.17.2
+datasets
+matplotlib
+numpy 
